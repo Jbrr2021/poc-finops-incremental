@@ -41,3 +41,9 @@ Ao contrário do loop (`for task in...`) no Python que rodava um cliente por vez
 2. No Dataform, valide se o **Grafo Compilado** gerou as entidades apenas para os clientes com `status: "ativo"`.
 3. Verifique a aba de **Consultas Compiladas** para validar a injeção do bloco `preOps` (comando DELETE) antes do bloco de `SELECT` principal.
 4. *(Aviso)*: Em projetos *Sandbox Free Tier*, a execução final pode ser bloqueada por limitações de comandos DML, mas a estrutura arquitetural é 100% aderente ao ambiente de produção.
+
+## Autor
+
+João Batista Rodrigues Ribeiro
+
+Estudante de Engenharia da Computação, Estagio em Dados, Cloud, Automação, IA, SQL, Python e soluções voltadas para organização e melhoria de processos.
